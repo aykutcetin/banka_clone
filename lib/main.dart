@@ -10,6 +10,7 @@ class Uygulamam extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: AnaEkran(),
+      color: Colors.deepOrange,
     );
   }
 }
